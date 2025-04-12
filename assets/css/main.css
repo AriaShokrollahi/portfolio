@@ -1,14 +1,14 @@
 @font-face {
   font-family: irancell;
-  src: url(/assets/fonts/irancell.otf) format('otf');
+  src: url(../fonts/irancell.otf) format('otf');
 }
 @font-face {
   font-family: Estedad;
-  src: url(/assets/fonts/Estedad-Light.woff) format('woff');
+  src: url(../fonts/Estedad-Light.woff) format('woff');
 }
 @font-face {
   font-family: Estedad-mid;
-  src: url(/assets/fonts/Estedad-Medium.woff) format('woff');
+  src: url(../fonts/Estedad-Medium.woff) format('woff');
 }
 :root {
   --default-font: Estedad;
